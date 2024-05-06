@@ -1,6 +1,6 @@
 # Jenkins Project Diagram Overview
 
-![](https://github.com/AliKhamed/Nti-Jenkins-Lab/blob/main/screenshots/Jenkins-project-diagram.png)
+![](https://github.com/mostafayounis1/shared_library.git)
 
 ## Shared Libirary Repository
 https://github.com/AliKhamed/shared_library.git
